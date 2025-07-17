@@ -1,0 +1,33 @@
+# Executables with no extensions
+CS50/compare
+CS50/credit
+CS50/hp
+Practice/book
+Practice/c
+Practice/days
+Practice/fibo
+Practice/force
+Practice/mal
+Practice/mal2
+Practice/p_array
+Practice/pi
+Practice/pointer1
+Practice/pointervalue
+Practice/resm
+Practice/reveal
+Practice/rlc
+Practice/shared_values
+Practice/static
+Practice/stud
+Practice/swap
+Practice/tern
+Practice/vector
+
+# Generic executables
+*.out
+*.exe
+*.bin
+*.elf
+
+# VS Code
+.vscode/
